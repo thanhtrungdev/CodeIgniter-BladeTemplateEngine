@@ -23,6 +23,11 @@ template\Blade\Autoloader::register();
 -> And inside **autoload.php** add blade library: **$autoload['libraries'] = array('blade');**
 
 
+**Step 4:**
+
+-> Create folder **views** inside folder **cache**
+
+
 ### Usage 
 
 - With data
